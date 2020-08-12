@@ -15,7 +15,12 @@
     "@babel/preset-react": "^7.10.4",
     "babel-loader": "^8.1.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "snapkite-stream-client": "^1.0.3"
   }
 }
